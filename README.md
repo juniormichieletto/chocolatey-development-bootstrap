@@ -1,4 +1,6 @@
+
 # chocolatey-development-bootstrap
+
 The common chocolatey packages that I usually need when I`m working in the Windows workspaces
 
 Using Chocolatey package manager to install some apps
@@ -13,23 +15,23 @@ Using Chocolatey package manager to install some apps
 
 5. Reopen the powershell in administrative mode and Install apps that you want
 
-choco install git
-choco install openjdk11
-choco install openjdk8
-choco install maven
-choco install jetbrainstoolbox
-choco install ant
-choco install microsoft-windows-terminal
+    choco install git
+    choco install openjdk11
+    choco install openjdk8
+    choco install maven
+    choco install jetbrainstoolbox
+    choco install ant
+    choco install microsoft-windows-terminal
 
-choco install nodejs-lts
-choco install vscode
-choco install dbeaver
+    choco install nodejs-lts
+    choco install vscode
+    choco install dbeaver
 
-choco install ditto
-choco install curl
-choco install notepadplusplus
-choco install sharex
-choco install googlechrome
-choco install firefox
-choco install 1clipboard
-choco install microsoft-teams
+    choco install ditto
+    choco install curl
+    choco install notepadplusplus
+    choco install sharex
+    choco install googlechrome
+    choco install firefox
+    choco install 1clipboard
+    choco install microsoft-teams
